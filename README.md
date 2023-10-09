@@ -4,6 +4,8 @@ A vanilla GAN trained on MNIST.
 
 <img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/300.png' width=66%>
 
+https://github.com/oelin/vanilla-gan-mnist/assets/42823429/c96d6936-f243-48c1-abde-37fb045eac13
+
 ## Samples
 
 After epoch 0.
