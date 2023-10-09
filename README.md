@@ -2,7 +2,7 @@
 
 A vanilla GAN trained on MNIST. 
 
-<img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/300.png' width=100%>
+<img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/300.png' width=66%>
 
 ## Samples
 
