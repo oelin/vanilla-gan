@@ -4,10 +4,22 @@ A vanilla (MLP) GAN trained on MNIST.
 
 ## Samples
 
-Unconditional samples after 75 epochs.
+After epoch 0.
 
-<img src='https://i.ibb.co/zRCxLfN/64ce01fc-3c30-4126-80a4-2662ec965925.png' width=50%>
+<img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/0.png' width=50%>
 
-Unconditional samples after 100 epochs.
+After epoch 10.
 
-<img src='https://i.ibb.co/sKySk9B/205d7f31-5d97-45dc-9fe7-5eb575db403e.png' width=50%>
+<img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/10.png' width=50%>
+
+After epoch 100.
+
+<img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/100.png' width=50%>
+
+After epoch 200.
+
+<img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/200.png' width=50%>
+
+After epoch 300.
+
+<img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/300.png' width=50%>
