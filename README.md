@@ -1,6 +1,6 @@
-# Vanilla GAN MNIST
+# Vanilla GAN 
 
-A vanilla GAN trained on MNIST. 
+An implementation of a vanilla GAN in PyTorch.
 
 <img src='https://github.com/oelin/vanilla-gan-mnist/blob/main/images/300.png' width=66%>
 
